@@ -52,3 +52,9 @@ body{
     text-align: center;
     padding: 0.5em;
 }
+
+#imagen2{
+    vertical-align: middle;
+    margin: 0 20%;
+    width: 50%;
+}
